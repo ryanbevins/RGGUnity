@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: f65ee733e43eecc44bf14e72c7b4cdc7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 24_+Default Face.f1_1_0_0
+    100002: 24_+Default Face.f_1_0_0
+    100004: 24_+Shoes.s1_0.6_0_0
+    100006: 24_-Bloody Face.f4_1_0_0
+    100008: 24_-Bloody Face.f_1_0_0
+    100010: 24_-Scratched Face 2.f3_1_0_0
+    100012: 24_-Scratched Face 2.f_1_0_0
+    100014: 24_-Scratched Face.f2_1_0_0
+    100016: 24_-Scratched Face.f_1_0_0
+    100018: 24_-Shoes.s3_0.4_0_0
+    100020: 24_belt_0.6_0_0
+    100022: 24_ducts_1_0_0
+    100024: 24_eyepatch_0.5_0_0
+    100026: 24_hands_1_0_0
+    100028: 24_mouth_1_0_0
+    100030: 24_nails_1_0_0
+    100032: 24_shirt_0.5_0_0
+    100034: 24_suit_0.5_0_0
+    100036: 24_suitin_0.5_0_0
+    100038: 25_1pony_0.5_0_0
+    100040: 25_2pony_0.5_0_0
+    100042: 25_3pony_0.5_0_0
+    100044: 25_hair_0.5_0_0
+    100046: 27_+Shoes.s2_1_0_0
+    100048: 27_eyeref_1_0_0
+    100050: 2_eye_0.8_0_0
+    100052: 7_eyeshadow_0.3_0_0
+    100054: 7_necklace_0.8_0_0
+    100056: Camera
+    100058: Hemi
+    100060: Lamp
+    100062: //RootNode
+    100064: mixamorig:Head
+    100066: mixamorig:HeadTop_End
+    100068: mixamorig:Hips
+    100070: mixamorig:LeftArm
+    100072: mixamorig:LeftFoot
+    100074: mixamorig:LeftForeArm
+    100076: mixamorig:LeftHand
+    100078: mixamorig:LeftHandIndex1
+    100080: mixamorig:LeftHandIndex2
+    100082: mixamorig:LeftHandIndex3
+    100084: mixamorig:LeftHandIndex4
+    100086: mixamorig:LeftHandMiddle1
+    100088: mixamorig:LeftHandMiddle2
+    100090: mixamorig:LeftHandMiddle3
+    100092: mixamorig:LeftHandMiddle4
+    100094: mixamorig:LeftHandPinky1
+    100096: mixamorig:LeftHandPinky2
+    100098: mixamorig:LeftHandPinky3
+    100100: mixamorig:LeftHandPinky4
+    100102: mixamorig:LeftHandRing1
+    100104: mixamorig:LeftHandRing2
+    100106: mixamorig:LeftHandRing3
+    100108: mixamorig:LeftHandRing4
+    100110: mixamorig:LeftHandThumb1
+    100112: mixamorig:LeftHandThumb2
+    100114: mixamorig:LeftHandThumb3
+    100116: mixamorig:LeftHandThumb4
+    100118: mixamorig:LeftLeg
+    100120: mixamorig:LeftShoulder
+    100122: mixamorig:LeftToe_End
+    100124: mixamorig:LeftToeBase
+    100126: mixamorig:LeftUpLeg
+    100128: mixamorig:Neck
+    100130: mixamorig:RightArm
+    100132: mixamorig:RightFoot
+    100134: mixamorig:RightForeArm
+    100136: mixamorig:RightHand
+    100138: mixamorig:RightHandIndex1
+    100140: mixamorig:RightHandIndex2
+    100142: mixamorig:RightHandIndex3
+    100144: mixamorig:RightHandIndex4
+    100146: mixamorig:RightHandMiddle1
+    100148: mixamorig:RightHandMiddle2
+    100150: mixamorig:RightHandMiddle3
+    100152: mixamorig:RightHandMiddle4
+    100154: mixamorig:RightHandPinky1
+    100156: mixamorig:RightHandPinky2
+    100158: mixamorig:RightHandPinky3
+    100160: mixamorig:RightHandPinky4
+    100162: mixamorig:RightHandRing1
+    100164: mixamorig:RightHandRing2
+    100166: mixamorig:RightHandRing3
+    100168: mixamorig:RightHandRing4
+    100170: mixamorig:RightHandThumb1
+    100172: mixamorig:RightHandThumb2
+    100174: mixamorig:RightHandThumb3
+    100176: mixamorig:RightHandThumb4
+    100178: mixamorig:RightLeg
+    100180: mixamorig:RightShoulder
+    100182: mixamorig:RightToe_End
+    100184: mixamorig:RightToeBase
+    100186: mixamorig:RightUpLeg
+    100188: mixamorig:Spine
+    100190: mixamorig:Spine1
+    100192: mixamorig:Spine2
+    400000: 24_+Default Face.f1_1_0_0
+    400002: 24_+Default Face.f_1_0_0
+    400004: 24_+Shoes.s1_0.6_0_0
+    400006: 24_-Bloody Face.f4_1_0_0
+    400008: 24_-Bloody Face.f_1_0_0
+    400010: 24_-Scratched Face 2.f3_1_0_0
+    400012: 24_-Scratched Face 2.f_1_0_0
+    400014: 24_-Scratched Face.f2_1_0_0
+    400016: 24_-Scratched Face.f_1_0_0
+    400018: 24_-Shoes.s3_0.4_0_0
+    400020: 24_belt_0.6_0_0
+    400022: 24_ducts_1_0_0
+    400024: 24_eyepatch_0.5_0_0
+    400026: 24_hands_1_0_0
+    400028: 24_mouth_1_0_0
+    400030: 24_nails_1_0_0
+    400032: 24_shirt_0.5_0_0
+    400034: 24_suit_0.5_0_0
+    400036: 24_suitin_0.5_0_0
+    400038: 25_1pony_0.5_0_0
+    400040: 25_2pony_0.5_0_0
+    400042: 25_3pony_0.5_0_0
+    400044: 25_hair_0.5_0_0
+    400046: 27_+Shoes.s2_1_0_0
+    400048: 27_eyeref_1_0_0
+    400050: 2_eye_0.8_0_0
+    400052: 7_eyeshadow_0.3_0_0
+    400054: 7_necklace_0.8_0_0
+    400056: Camera
+    400058: Hemi
+    400060: Lamp
+    400062: //RootNode
+    400064: mixamorig:Head
+    400066: mixamorig:HeadTop_End
+    400068: mixamorig:Hips
+    400070: mixamorig:LeftArm
+    400072: mixamorig:LeftFoot
+    400074: mixamorig:LeftForeArm
+    400076: mixamorig:LeftHand
+    400078: mixamorig:LeftHandIndex1
+    400080: mixamorig:LeftHandIndex2
+    400082: mixamorig:LeftHandIndex3
+    400084: mixamorig:LeftHandIndex4
+    400086: mixamorig:LeftHandMiddle1
+    400088: mixamorig:LeftHandMiddle2
+    400090: mixamorig:LeftHandMiddle3
+    400092: mixamorig:LeftHandMiddle4
+    400094: mixamorig:LeftHandPinky1
+    400096: mixamorig:LeftHandPinky2
+    400098: mixamorig:LeftHandPinky3
+    400100: mixamorig:LeftHandPinky4
+    400102: mixamorig:LeftHandRing1
+    400104: mixamorig:LeftHandRing2
+    400106: mixamorig:LeftHandRing3
+    400108: mixamorig:LeftHandRing4
+    400110: mixamorig:LeftHandThumb1
+    400112: mixamorig:LeftHandThumb2
+    400114: mixamorig:LeftHandThumb3
+    400116: mixamorig:LeftHandThumb4
+    400118: mixamorig:LeftLeg
+    400120: mixamorig:LeftShoulder
+    400122: mixamorig:LeftToe_End
+    400124: mixamorig:LeftToeBase
+    400126: mixamorig:LeftUpLeg
+    400128: mixamorig:Neck
+    400130: mixamorig:RightArm
+    400132: mixamorig:RightFoot
+    400134: mixamorig:RightForeArm
+    400136: mixamorig:RightHand
+    400138: mixamorig:RightHandIndex1
+    400140: mixamorig:RightHandIndex2
+    400142: mixamorig:RightHandIndex3
+    400144: mixamorig:RightHandIndex4
+    400146: mixamorig:RightHandMiddle1
+    400148: mixamorig:RightHandMiddle2
+    400150: mixamorig:RightHandMiddle3
+    400152: mixamorig:RightHandMiddle4
+    400154: mixamorig:RightHandPinky1
+    400156: mixamorig:RightHandPinky2
+    400158: mixamorig:RightHandPinky3
+    400160: mixamorig:RightHandPinky4
+    400162: mixamorig:RightHandRing1
+    400164: mixamorig:RightHandRing2
+    400166: mixamorig:RightHandRing3
+    400168: mixamorig:RightHandRing4
+    400170: mixamorig:RightHandThumb1
+    400172: mixamorig:RightHandThumb2
+    400174: mixamorig:RightHandThumb3
+    400176: mixamorig:RightHandThumb4
+    400178: mixamorig:RightLeg
+    400180: mixamorig:RightShoulder
+    400182: mixamorig:RightToe_End
+    400184: mixamorig:RightToeBase
+    400186: mixamorig:RightUpLeg
+    400188: mixamorig:Spine
+    400190: mixamorig:Spine1
+    400192: mixamorig:Spine2
+    2000000: Camera
+    2100000: 7_necklace_0.8_0_0
+    2100002: 7_eyeshadow_0.3_0_0
+    2100004: 2_eye_0.8_0_0
+    2100006: 27_eyeref_1_0_0
+    2100008: 27_+Shoes.s2_1_0_0
+    2100010: 25_hair_0.5_0_0
+    2100012: 25_3pony_0.5_0_0
+    2100014: 25_2pony_0.5_0_0
+    2100016: 25_1pony_0.5_0_0
+    2100018: 24_suitin_0.5_0_0
+    2100020: 24_suit_0.5_0_0
+    2100022: 24_shirt_0.5_0_0
+    2100024: 24_nails_1_0_0
+    2100026: 24_mouth_1_0_0
+    2100028: 24_hands_1_0_0
+    2100030: 24_eyepatch_0.5_0_0
+    2100032: 24_ducts_1_0_0
+    2100034: 24_belt_0.6_0_0
+    2100036: 24_-Shoes.s3_0.4_0_0
+    2100038: 24_-Scratched Face.f_1_0_0
+    2100040: 24_-Scratched Face.f2_1_0_0
+    2100042: 24_-Scratched Face 2.f_1_0_0
+    2100044: 24_-Scratched Face 2.f3_1_0_0
+    2100046: 24_-Bloody Face.f_1_0_0
+    2100048: 24_-Bloody Face.f4_1_0_0
+    2100050: 24_+Shoes.s1_0.6_0_0
+    2100052: 24_+Default Face.f_1_0_0
+    2100054: 24_+Default Face.f1_1_0_0
+    4300000: 7_necklace_0.8_0_0
+    4300002: 7_eyeshadow_0.3_0_0
+    4300004: 2_eye_0.8_0_0
+    4300006: 27_eyeref_1_0_0
+    4300008: 27_+Shoes.s2_1_0_0
+    4300010: 25_hair_0.5_0_0
+    4300012: 25_3pony_0.5_0_0
+    4300014: 25_2pony_0.5_0_0
+    4300016: 25_1pony_0.5_0_0
+    4300018: 24_suitin_0.5_0_0
+    4300020: 24_suit_0.5_0_0
+    4300022: 24_shirt_0.5_0_0
+    4300024: 24_nails_1_0_0
+    4300026: 24_mouth_1_0_0
+    4300028: 24_hands_1_0_0
+    4300030: 24_eyepatch_0.5_0_0
+    4300032: 24_ducts_1_0_0
+    4300034: 24_belt_0.6_0_0
+    4300036: 24_-Shoes.s3_0.4_0_0
+    4300038: 24_-Scratched Face.f_1_0_0
+    4300040: 24_-Scratched Face.f2_1_0_0
+    4300042: 24_-Scratched Face 2.f_1_0_0
+    4300044: 24_-Scratched Face 2.f3_1_0_0
+    4300046: 24_-Bloody Face.f_1_0_0
+    4300048: 24_-Bloody Face.f4_1_0_0
+    4300050: 24_+Shoes.s1_0.6_0_0
+    4300052: 24_+Default Face.f_1_0_0
+    4300054: 24_+Default Face.f1_1_0_0
+    7400000: 24_hands_1_0_0|24_hands_1_0_0Action
+    7400002: mixamo.com
+    9500000: //RootNode
+    10800000: Hemi
+    10800002: Lamp
+    13700000: 24_+Default Face.f1_1_0_0
+    13700002: 24_+Default Face.f_1_0_0
+    13700004: 24_+Shoes.s1_0.6_0_0
+    13700006: 24_-Bloody Face.f4_1_0_0
+    13700008: 24_-Bloody Face.f_1_0_0
+    13700010: 24_-Scratched Face 2.f3_1_0_0
+    13700012: 24_-Scratched Face 2.f_1_0_0
+    13700014: 24_-Scratched Face.f2_1_0_0
+    13700016: 24_-Scratched Face.f_1_0_0
+    13700018: 24_-Shoes.s3_0.4_0_0
+    13700020: 24_belt_0.6_0_0
+    13700022: 24_ducts_1_0_0
+    13700024: 24_eyepatch_0.5_0_0
+    13700026: 24_hands_1_0_0
+    13700028: 24_mouth_1_0_0
+    13700030: 24_nails_1_0_0
+    13700032: 24_shirt_0.5_0_0
+    13700034: 24_suit_0.5_0_0
+    13700036: 24_suitin_0.5_0_0
+    13700038: 25_1pony_0.5_0_0
+    13700040: 25_2pony_0.5_0_0
+    13700042: 25_3pony_0.5_0_0
+    13700044: 25_hair_0.5_0_0
+    13700046: 27_+Shoes.s2_1_0_0
+    13700048: 27_eyeref_1_0_0
+    13700050: 2_eye_0.8_0_0
+    13700052: 7_eyeshadow_0.3_0_0
+    13700054: 7_necklace_0.8_0_0
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
